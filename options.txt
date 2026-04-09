@@ -27,7 +27,7 @@ fullscreen:false
 enableVsync:false
 useVbo:false
 hideServerAddress:false
-advancedItemTooltips:false
+advancedItemTooltips:true
 pauseOnLostFocus:false
 touchscreen:false
 overrideWidth:0
